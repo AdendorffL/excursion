@@ -1,0 +1,37 @@
+body {
+    background: black;
+    text-align: center;
+    font-family: Verdana;
+    color: gray;
+    font-size: 15;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 20px;
+    color: white;
+}
+
+
+heading {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+
+a:link {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+footer {
+    color: white;
+    font-family: Verdana;
+}
+
+logo {
+    font-size: 12px;
+    text-align: right;
+}
